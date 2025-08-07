@@ -1,0 +1,24 @@
+# Adaptive Keyboard Project Dependencies
+
+# Core framework for cross-platform mobile development
+kivy==2.1.0
+kivymd==1.1.1
+
+# Data processing and analytics
+numpy==1.24.3
+pandas==2.0.3
+
+# Machine learning for predictions
+scikit-learn==1.3.0
+
+# Additional utilities
+python-dateutil==2.8.2
+colorama==0.4.6
+
+# For mobile deployment
+buildozer==1.5.0  # Android builds
+kivy-ios==1.3.0   # iOS builds (requires macOS)
+
+# Development and testing
+pytest==7.4.0
+pytest-cov==4.1.0
