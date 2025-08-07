@@ -1,0 +1,31 @@
+{
+  "learned_words": [
+    "hamburger"
+  ],
+  "unknown_word_frequencies": {
+    "ha": 2,
+    "ham": 2,
+    "hamb": 2,
+    "hambu": 2,
+    "hambur": 2,
+    "hamburg": 2,
+    "hamburge": 2,
+    "hamburger": 5
+  },
+  "unknown_word_patterns": {
+    "hamburger e": {
+      "hamburger e": 1
+    }
+  },
+  "word_first_seen": {
+    "ha": 1754592823.635437,
+    "ham": 1754592823.7396421,
+    "hamb": 1754592824.4079301,
+    "hambu": 1754592824.5091588,
+    "hambur": 1754592825.1324658,
+    "hamburg": 1754592825.3633,
+    "hamburge": 1754592825.6242309,
+    "hamburger": 1754592825.715329
+  },
+  "last_updated": 1754592827.1747358
+}

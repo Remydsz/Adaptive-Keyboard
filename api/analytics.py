@@ -1,5 +1,5 @@
 """
-Typing Analytics - Track and analyze user typing patterns
+Typing Analytics Module
 """
 
 import time
