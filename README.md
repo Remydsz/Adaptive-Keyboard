@@ -23,11 +23,6 @@ This is a work-in-progress prototype demonstrating:
 - `react-demo/src/AdaptiveKeyboard.jsx` - Main keyboard component
 - Runs on `http://localhost:3003`
 
-### API Endpoints
-- `POST /predict` - Get word predictions
-- `POST /analytics` - Update typing analytics
-- `GET /health` - Health check
-
 ## Machine Learning
 
 - N-gram statistical language model (trigrams)
@@ -51,15 +46,3 @@ npm run dev
 
 Then visit: `http://localhost:3003`
 
-## Future Enhancements
-
-- Swipe gesture recognition
-- Multi-language support
-- Cloud sync for typing patterns
-- Advanced ML models (LSTM/Transformer)
-- Voice-to-text integration
-- Accessibility features
-
-## License
-
-MIT License
