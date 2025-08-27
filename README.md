@@ -10,6 +10,10 @@ This is a work-in-progress prototype demonstrating:
 - Python backend with Flask API
 - Word completion with tab autofill
 - Basic typing analytics
+  
+<img width="1391" height="722" alt="Screenshot 2025-08-27 at 4 10 17 AM" src="https://github.com/user-attachments/assets/8a35ec9a-35aa-4e54-ab1a-f718dfdb9e1e" />
+<img width="852" height="363" alt="Screenshot 2025-08-27 at 4 10 28 AM" src="https://github.com/user-attachments/assets/93611fb3-452a-4893-8ea3-6268d13b4f21" />
+
 
 ## Architecture
 
